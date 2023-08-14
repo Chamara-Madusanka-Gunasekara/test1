@@ -11,5 +11,8 @@ public class Third {
 
         System.out.printf("Welcome %s\n",name);
         System.out.printf("Your age is %s",age);
+        System.out.printf("Your age is %s",age);
+        System.out.printf("Your age is %s",age);
+        System.out.printf("Your age is %s",age);
     }
 }
